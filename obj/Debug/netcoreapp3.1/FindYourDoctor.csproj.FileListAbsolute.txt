@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\FindYourDoctor\bin\Debug\netcoreapp3.1\FindYourDoctor.exe
+C:\Users\Administrator\source\repos\FindYourDoctor\bin\Debug\netcoreapp3.1\FindYourDoctor.deps.json
+C:\Users\Administrator\source\repos\FindYourDoctor\bin\Debug\netcoreapp3.1\FindYourDoctor.runtimeconfig.json
+C:\Users\Administrator\source\repos\FindYourDoctor\bin\Debug\netcoreapp3.1\FindYourDoctor.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\FindYourDoctor\bin\Debug\netcoreapp3.1\FindYourDoctor.dll
+C:\Users\Administrator\source\repos\FindYourDoctor\bin\Debug\netcoreapp3.1\FindYourDoctor.pdb
+C:\Users\Administrator\source\repos\FindYourDoctor\obj\Debug\netcoreapp3.1\FindYourDoctor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\FindYourDoctor\obj\Debug\netcoreapp3.1\FindYourDoctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\FindYourDoctor\obj\Debug\netcoreapp3.1\FindYourDoctor.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FindYourDoctor\obj\Debug\netcoreapp3.1\FindYourDoctor.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FindYourDoctor\obj\Debug\netcoreapp3.1\FindYourDoctor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FindYourDoctor\obj\Debug\netcoreapp3.1\FindYourDoctor.dll
+C:\Users\Administrator\source\repos\FindYourDoctor\obj\Debug\netcoreapp3.1\FindYourDoctor.pdb
+C:\Users\Administrator\source\repos\FindYourDoctor\obj\Debug\netcoreapp3.1\FindYourDoctor.genruntimeconfig.cache
